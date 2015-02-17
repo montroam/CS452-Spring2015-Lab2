@@ -1,1 +1,7 @@
-name, date, description
+Allison Montroy
+02/17/15
+
+I created an x&y variable that increased or decreased each time the corresponding button is pressed. 
+I also created a vector that held the colors as well as the position of the shapes’ vertices. 
+The x&y variables range between -10 and 10, and then are multiplied by .1 and added to the 
+original position of the vectors.
